@@ -2,7 +2,7 @@
 
 Are you on the lookout for high-paying opportunities? Here's a curated list of top-notch companies that offer salaries exceeding 20 LPA (Lakhs Per Annum). These organizations are known for their competitive compensation packages and outstanding work environments.
 
-## Alphabetical Order
+##  Order
 
 - **ABB**
 - **ADP**
