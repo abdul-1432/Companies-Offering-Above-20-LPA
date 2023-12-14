@@ -50,6 +50,7 @@ Are you on the lookout for high-paying opportunities? Here's a curated list of t
 - **Netflix**
 - **NVIDIA**
 - **NTT**
+- **Oracle**
 - **PayPal**
 - **Paytm**
 - **Philips**
