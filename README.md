@@ -41,6 +41,7 @@ Are you on the lookout for high-paying opportunities? Here's a curated list of t
 - **KPMG**
 - **LinkedIn**
 - **Mastercard**
+- **Mc Kinsey**
 - **Messho**
 - **Meta**
 - **Microsoft**
