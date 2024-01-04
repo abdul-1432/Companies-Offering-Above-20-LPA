@@ -53,6 +53,7 @@ Are you on the lookout for high-paying opportunities? Here's a curated list of t
 - **Oracle**
 - **PayPal**
 - **Paytm**
+- **Phone Pay**
 - **Philips**
 - **PWC (PricewaterhouseCoopers)**
 - **Qualcomm**
