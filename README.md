@@ -64,6 +64,7 @@ Are you on the lookout for high-paying opportunities? Here's a curated list of t
 - **Siemens**
 - **Sony**
 - **SpaceX**
+- **Strip**
 - **Swinney**
 - **Synopsys**
 - **TCS (Tata Consultancy Services)**
