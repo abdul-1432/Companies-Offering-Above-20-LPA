@@ -71,6 +71,7 @@ Are you on the lookout for high-paying opportunities? Here's a curated list of t
 - **Strip**
 - **Swinney**
 - **Synopsys**
+- **Symantec**
 - **TCS (Tata Consultancy Services)**
 - **Tesla**
 - **Tower Research Capital**
