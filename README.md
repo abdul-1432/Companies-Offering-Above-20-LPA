@@ -55,6 +55,7 @@ Are you on the lookout for high-paying opportunities? Here's a curated list of t
 - **NVIDIA**
 - **NTT**
 - **Oracle**
+- **Ola**
 - **PayPal**
 - **Paytm**
 - **Phone Pay**
