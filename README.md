@@ -21,6 +21,7 @@ Are you on the lookout for high-paying opportunities? Here's a curated list of t
 - **Capgemini**
 - **CITI Bank**
 - **Cisco**
+- **Coinbase**
 - **DELL**
 - **EATON**
 - **EY (Ernst & Young)**
