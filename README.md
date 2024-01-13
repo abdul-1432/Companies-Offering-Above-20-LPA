@@ -80,6 +80,7 @@ Are you on the lookout for high-paying opportunities? Here's a curated list of t
 - **Tower Research Capital**
 - **Twiter**
 - **UST Global**
+- **Upstox**
 - **VolVa**
 - **Walmart**
 - **Wipro**
