@@ -19,6 +19,7 @@ Are you on the lookout for high-paying opportunities? Here's a curated list of t
 - **BMW**
 - **BCG (Boston Consulting Group)**
 - **Capgemini**
+- **CGI**
 - **CITI Bank**
 - **Cisco**
 - **Coinbase**
